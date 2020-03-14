@@ -1,0 +1,11 @@
+Dépôt du projet Mindstorm de Benyahia Meriem, Montigne Philippe et Szczepanski Florian
+Vidéo: https://www.youtube.com/watch?v=L7mN__tgtYU
+
+
+ColorGestion comprend la classe LearnColor qui une fois execute permet d'apprendre un nombre quelconque de couleur grace a un nombre quelconque de scans.
+
+LineFollow contient FollowLine qui une fois execute permet de suivre une ligne et de faire demi-tour et de s'arrêter lorsque la couleur associé,
+	si elle existe est reconnu par le capteur.
+LineFollow contient aussi FollowMem qui une fois execute permet de suivre un circuit et une fois arrive au bout, le reparcours sans regarder la ligne.
+
+Old_Code contient tout le code qui a été écrit dans l'année, allant des versions précédentes de LineFollow et ColorGestion à de simples tests basiques.

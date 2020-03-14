@@ -1,0 +1,84 @@
+* <13-09-2018>
+** A faire:
+- Détailler une proposition de projet, identifier difficultés et étapes
+
+
+* <20-09-2018>
+** Fait: 
+   - Decidé de faire un siveur de ligne
+** À faire: 
+  - Écrire un programme qui affiche HelloWorld
+  - Faire bouger le moteur
+
+* <27-09-2018>
+  ** Fait:
+  - HelloWord + bouger le moteur
+  ** À faire:
+  - Faire bouger les moteurs avec deux vitesses differentes
+  - Calibrer le capteur
+  - Écrire un programme de apprentissage de couleurs
+  -  + un prog. de reconnaissance de couleurs
+
+* <04-10-2018>
+  ** Fait:
+  - Bouger les moteurs 
+  - Premier algo de reconnaissance de couleurs qui n'a pas passé le test Gio
+  ** À faire:
+  - Un algo de reconnaissance qui passe le test Gio
+  
+* <11-10-2018>
+** Fait:
+   - Reconnaissance de couleurs 
+** À faire:
+   - Monter un suiveur de lignes
+   - Écrire un algo pour suivre une ligne droite
+
+
+* <18-10-2018>
+** Fait:
+   - Algo pour suivre une ligne droite
+** À faire:
+   - Algorithme pour suivre une ligne, mais
+
+* <8-11-2018>
+** En cours:
+   - Ont optimisé l'algorithme naïf de suivi de ligne
+   - Sont en train d'expérimenter des algorithmes utilisant deux capteurs
+   pour suivre la ligne 
+
+* <22-11-2018>
+** Fait:
+   - Premier algo de suivi de ligne 
+** À faire:
+   - Ameliorer algo de suivi de ligne
+   - Ajouter significat à les couleurs
+   - Commencer à travaiiler à un historique de position
+
+* <6-12-2018>
+** Fait:
+   - Diagnostic des problèmes de reconnaissance de couleur
+   - (ont ajouté une classe de logging pour aider au diagnostic)
+   - le pb semble avoir été causé par un capteur fautif, n'apparaît
+   plus après changement de capteur
+** A faire:
+   - Commencer à travailler à un historique de position
+   - Ajouter signification aux couleurs
+
+* <24-01-2019>
+** Fait:
+   - ajout d'une signification aux couleurs
+   - idée pour historique de position
+** A faire:
+   - historique de position, à tester
+   - faire en sorte d'avoir la vitesse optimale en fonction du niveau de batterie
+   - mettre à jour git
+
+* <07-02-2019>
+** Fait:
+   - vitesse optimale
+** Ont commencé:
+   - historique de positions, utilisation du tachymètre (à continuer)
+
+* <07-03-2019>
+** En cours:
+   - historique de positions (fait: mesure de l'orientation par rapport à l'orientation initiale)
